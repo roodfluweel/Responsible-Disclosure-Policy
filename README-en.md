@@ -15,7 +15,7 @@ We have therefore opted for a policy of coordinated disclosure of vulnerabilitie
 so that you can inform us when you discover a vulnerability.
 
 This Responsible Disclosure Policy applies to all Rood Fluweel systems.
-In any case of doubt, please contact us to clarify matters via infosec@roodfluweel.be.
+In any case of doubt, please contact us to clarify matters via support@roodfluweel.be.
 
 # What we ask of you
 
@@ -23,7 +23,7 @@ If you discover a vulnerability in one of our systems, we ask you to:
 
 ## Reporting the vulnerability
 
-* Report the vulnerability as soon as possible after discovery. Mail your findings to infosec@roodfluweel.be and encrypt them with our [PGP key](infosecRoodFluweel_0x294BE3EC_public.asc) to prevent the information from falling into the wrong hands.
+* Report the vulnerability as soon as possible after discovery. Mail your findings to support@roodfluweel.be and encrypt them with our [PGP key](infosecRoodFluweel_0x294BE3EC_public.asc) to prevent the information from falling into the wrong hands.
 * Provide sufficient information to reproduce the vulnerability so that we can solve the problem as quickly as possible. 
   Usually the IP address or URL of the affected system and a description of the vulnerability is sufficient, but for more complex vulnerabilities more may be needed.
 * Leave your contact details, so that Rood Fluweel can contact you to work together for a safe result. 
@@ -60,7 +60,7 @@ Acts under this Responsible Disclosure Policy should be limited to conducting te
 * We strive to solve all problems within a short period of time.
 * We may choose to ignore low quality reports.
 
-If you have any questions, we encourage you to address them to infosec@roodfluweel.be.
+If you have any questions, we encourage you to address them to support@roodfluweel.be.
 
 In case of doubt about the applicability of this policy, please contact us first via this e-mail address, to ask for explicit permission.
 
