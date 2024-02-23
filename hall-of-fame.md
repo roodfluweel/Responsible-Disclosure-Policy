@@ -6,4 +6,4 @@ By acting responsibly, these individuals have made significant contributions to 
 
 * 
 
-(Zelf ook een security issue gevonden, laat het ons weten!?)
+Found a security issue and would like to see your name on this list? Read our [RDP](README-en.md).
