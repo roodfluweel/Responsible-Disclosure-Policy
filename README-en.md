@@ -6,11 +6,16 @@ Rood Fluweel (online ticketing service) considers it important that its informat
 
 Despite our concern for the security of these systems, it may occur that there still is a vulnerability.
 
-If you have found a vulnerability in one of our systems, please let us know so that we can take measures as quickly as possible. We would like to work with you to protect our audience and our systems in a better way.
+If you have found a vulnerability in one of our systems, 
+please let us know so that we can take measures as quickly as possible. 
+We would like to work with you to protect our audience and our systems in a better way.
 
-We have therefore opted for a policy of coordinated disclosure of vulnerabilities (also known as the ‘Responsible Disclosure Policy’) so that you can inform us when you discover a vulnerability.
+We have therefore opted for a policy of coordinated disclosure of vulnerabilities 
+(also known as the 'Responsible Disclosure Policy') 
+so that you can inform us when you discover a vulnerability.
 
-This Responsible Disclosure Policy applies to all Rood Fluweel systems. In any case of doubt, please contact us to clarify matters via infosec@roodfluweel.be. 
+This Responsible Disclosure Policy applies to all Rood Fluweel systems.
+In any case of doubt, please contact us to clarify matters via infosec@roodfluweel.be.
 
 # What we ask of you
 
@@ -18,9 +23,12 @@ If you discover a vulnerability in one of our systems, we ask you to:
 
 ## Reporting the vulnerability
 
-* Report the vulnerability as soon as possible after discovery. Mail your findings to infosec@roodfluweel.be and encrypt them with our PGP key to prevent the information from falling into the wrong hands.
-* Provide sufficient information to reproduce the vulnerability so that we can solve the problem as quickly as possible. Usually the IP address or URL of the affected system and a description of the vulnerability is sufficient, but for more complex vulnerabilities more may be needed.
-* Leave your contact details, so that Rood Fluweel can contact you to work together for a safe result. Leave at least your name, e-mail address and/or telephone number. Reporting under a pseudonym is possible, but make sure that we can contact you if we should have additional questions.
+* Report the vulnerability as soon as possible after discovery. Mail your findings to infosec@roodfluweel.be and encrypt them with our [PGP key](infosecRoodFluweel_0x294BE3EC_public.asc) to prevent the information from falling into the wrong hands.
+* Provide sufficient information to reproduce the vulnerability so that we can solve the problem as quickly as possible. 
+  Usually the IP address or URL of the affected system and a description of the vulnerability is sufficient, but for more complex vulnerabilities more may be needed.
+* Leave your contact details, so that Rood Fluweel can contact you to work together for a safe result. 
+  Leave at least your name, e-mail address and/or telephone number. 
+  Reporting under a pseudonym is possible, but make sure that we can contact you if we should have additional questions.
 * Confirm that you have acted and will continue to act in accordance with this Responsible Disclosure Policy.
 
 ## Rules you must follow
@@ -48,7 +56,7 @@ Acts under this Responsible Disclosure Policy should be limited to conducting te
 * We will respond to your report within a short period of time, if possible within 10 working days, with our review of the report and any expected date for resolution.
 * We will treat your report confidentially and will not share your personal data with third parties without your consent unless this is necessary to comply with a legal obligation.
 * We will keep you informed of the progress of solving the problem.
-* To thank you for any report of a security problem that is not yet known to us, we offer the opportunity to be listed in our "(Hall Of Fame)[hall-of-fame.md]".
+* To thank you for any report of a security problem that is not yet known to us, we offer the opportunity to be listed in our "[Hall Of Fame](hall-of-fame.md)".
 * We strive to solve all problems within a short period of time.
 * We may choose to ignore low quality reports.
 
