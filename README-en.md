@@ -66,4 +66,4 @@ In case of doubt about the applicability of this policy, please contact us first
 
 We reserve the right to change the content of this Policy at any time, or to terminate the Policy.
 
-This text is a derivative work of "Responsible Disclosure" by Floor Terra, used under a Creative Commons Attribution licence 3.0.
+This text is a derivative work of "Responsible Disclosure" by Floor Terra, used under a [Creative Commons Attribution licence 3.0](https://creativecommons.org/licenses/by/3.0/nl/).
