@@ -23,7 +23,7 @@ If you discover a vulnerability in one of our systems, we ask you to:
 
 ## Reporting the vulnerability
 
-* Report the vulnerability as soon as possible after discovery. Mail your findings to support@roodfluweel.be and encrypt them with our [PGP key](infosecRoodFluweel_0x294BE3EC_public.asc) to prevent the information from falling into the wrong hands.
+* Report the vulnerability as soon as possible after discovery. Mail your findings to infosec@roodfluweel.be or support@roodfluweel.be and encrypt them with our [PGP key](infosecRoodFluweel_0x294BE3EC_public.asc) to prevent the information from falling into the wrong hands.
 * Provide sufficient information to reproduce the vulnerability so that we can solve the problem as quickly as possible. 
   Usually the IP address or URL of the affected system and a description of the vulnerability is sufficient, but for more complex vulnerabilities more may be needed.
 * Leave your contact details, so that Rood Fluweel can contact you to work together for a safe result. 
